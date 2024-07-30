@@ -18,7 +18,6 @@
   - Define `Player` class
 - Item.java
   - Define `Item` class
-  - `Item` class is an abstract class
   - `Item` class is the super class of `Consumable` and `Weapon` class
 - Consumable.java
   - Define `Consumable` class that represents consumable such as recovery item
