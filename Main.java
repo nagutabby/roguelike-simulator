@@ -16,7 +16,6 @@ class Main {
         Enemy goblin = new Enemy("ゴブリン", 30, 10, 5, 0, EnemyType.NORMAL);
         Enemy dragon = new Enemy("ドラゴン", 200, 30, 0, 5, EnemyType.BOSS);
 
-
         Floor currentFloor = player.getCurrentFloor();
         currentFloor.addEnemy(goblin);
 
