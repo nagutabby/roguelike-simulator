@@ -1,8 +1,9 @@
 # roguelike-simulator
 ## How to compile and run
-1. Install the VSCode extension called `Extension Pack for Java`
-2. Open `Main.java`
-3. Click the run button in the top right corner
+1. Install VSCode
+2. Install the VSCode extension called `Extension Pack for Java`
+3. Open `Main.java` with VSCode
+4. Click the run button in the top right corner
 
 ## Description of programs
 - Main.java
